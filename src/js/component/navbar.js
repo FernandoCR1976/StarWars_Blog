@@ -9,8 +9,8 @@ export const Navbar = () => {
 			<Link className="navbar-brand" to="/">
 				<img
 					src="https://i.pinimg.com/originals/c6/8c/0f/c68c0f53d50ea8aa4a21b6374814b4a2.jpg"
-					width="70"
-					height="30"
+					width="280"
+					height="120"
 					alt="Star Wars"
 				/>
 			</Link>
