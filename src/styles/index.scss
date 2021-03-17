@@ -3,7 +3,7 @@
 */
 
 .holder-text > h2 {
-    text-decoration: underline solid #15f2fd;
+    text-decoration: underline solid grey;
     margin-top: 1em;
 }
 
@@ -11,11 +11,11 @@
     color: white;
 }
 .learn-color {
-    background: #EB212E;
+    background: black;
 }
 
 .property-under {
-    text-decoration: underline solid #EB212E;
+    text-decoration: underline solid grey;
 }
 
 .center-text {
@@ -29,9 +29,9 @@
 
 .fav-button:active,
 .fav-button:hover {
-    border: 2px solid #15f2fd;
+    border: 2px solid grey;
 }
 
 .red-saber {
-    background: #EB212E;
+    background: grey;
 }
