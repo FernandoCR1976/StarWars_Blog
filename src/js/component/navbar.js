@@ -47,23 +47,7 @@ export const Navbar = () => {
 											</div>
 										</li>
 									);
-									// }
 								})}
-							{/* {store.planet &&
-								store.planet.map((planet, index) => {
-									if (planet.isfav) {
-										return (
-											<li key={index} className="dropit dropdown-item" href="#">
-												{planet.name}{" "}
-												<button
-													onClick={() => actions.deleteFav(index, "planets")}
-													className="btndelete pull-right btn-xs btn btn-danger py-0">
-													X
-												</button>
-											</li>
-										);
-									}
-								})} */}
 						</ul>
 					</>
 				</div>
